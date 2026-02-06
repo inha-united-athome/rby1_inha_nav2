@@ -4,7 +4,7 @@ This repository contains a minimal subset of the rby1_nav2 package for navigatio
 
 ## Included Directories and Files
 
-- `src/bt/` : Behavior Tree XML files for navigation and HRI
+- `bt/` : Behavior Tree XML files for navigation and HRI
 - `config/param_hri.yaml` : Parameters for HRI navigation
 - `config/param_restaurant.yaml` : Parameters for restaurant navigation
 - `launch/navigation_hri.launch.py` : Launch file for HRI navigation
